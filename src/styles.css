@@ -1,0 +1,35 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+header {
+  background-color: #00eeff;
+  color: white;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+}
+
+section {
+  padding: 60px 0;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  padding: 5px 0;
+}
+
+#contact-form .form-label {
+  font-weight: bold;
+}
+
+h2,
+h3 {
+  color: #007bff;
+}
